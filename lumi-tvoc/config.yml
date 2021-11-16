@@ -1,0 +1,4 @@
+name: 'Aqara TVOC'
+packageKey: 'aqara-tvoc'
+permissions:
+  zigbee: {}

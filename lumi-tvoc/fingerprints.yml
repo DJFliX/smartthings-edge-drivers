@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "lumi.airmonitor.acn01"
+    deviceLabel: Aqara TVOC Air Quality Monitor
+    manufacturer: LUMI
+    model: lumi.airmonitor.acn01
+    deviceProfileName: temp-hum-tvoc
