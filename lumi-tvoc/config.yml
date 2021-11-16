@@ -1,4 +1,4 @@
-name: 'Aqara TVOC'
+name: 'Aqara AAQS-S01 TVOC Sensor'
 packageKey: 'aqara-tvoc'
 permissions:
   zigbee: {}
