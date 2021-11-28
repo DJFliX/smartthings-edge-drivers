@@ -12,17 +12,5 @@ components:
     version: 1
   - id: battery
     version: 1
-  - id: refresh
-    version: 1
   categories:
-  - name: Thermostat
-preferences:
-  - preferenceId: humidityOffset
-    explicit: true
-  - preferenceId: tempOffset
-    explicit: true
-
-metadata:
-  deviceType: Thermostat	
-  ocfDeviceType: oic.d.thermostat
-  deviceTypeId: Thermostat
+  - name: AirQualityDetector
